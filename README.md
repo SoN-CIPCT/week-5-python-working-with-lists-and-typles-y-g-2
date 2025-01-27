@@ -1,8 +1,8 @@
 # Template-PythonWeek5
-Repository template for Week 6 assignment on Python:  Lists and Tuples
+Repository template for Week 5 assignment on Python:  Lists and Tuples
 
 ## Assignment:
-Create one Python file homework6_<firstname_lastname>.py and perform the following excercises:
+Create one Python file homework5_<firstname_lastname>.py and perform the following excercises:
 List Exercise:
 1.	Create a list that contains 6 items.  
 2.	Print the items in the list to the output console.
